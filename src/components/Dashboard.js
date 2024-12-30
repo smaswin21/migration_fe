@@ -54,15 +54,15 @@ const Dashboard = () => {
         </h2>
         <ul className="list-disc list-inside text-gray-600 space-y-2">
           <li>
-            <strong>Layered Data Visualization:</strong> Combine satellite imagery, migration hotspots, routes, and external
-            factors like conflict zones and weather risks.
+            <strong>Layered Data Visualization: </strong> 
+            Migration hotspots, routes, and external factors such as conflict zones and weather risks.
           </li>
           <li>
-            <strong>Heatmaps and Dynamic Overlays:</strong> Highlight high-risk zones such as fatality corridors or regions
+            <strong>Heatmaps and Dynamic Overlays: </strong> Highlight high-risk zones such as fatality corridors or regions
             with extreme migration spikes.
           </li>
           <li>
-            <strong>Interactive Navigation:</strong> Hover and view region-specific stats such as fatalities, crossings,
+            <strong>Interactive Navigation: </strong> Hover and view region-specific stats such as fatalities, crossings,
             and incident reports. Use a time slider to analyze trends over different time frames.
           </li>
         </ul>
